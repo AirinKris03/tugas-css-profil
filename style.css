@@ -112,7 +112,7 @@ button {
     background-color: rgb(10, 69, 188);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 16px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -121,6 +121,7 @@ button {
     cursor: pointer;
     border-radius: 12px;
     font-weight: bold;
+    width: 100%;
 }
 
 button:hover {
