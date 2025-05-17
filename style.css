@@ -27,6 +27,24 @@ body {
     margin: auto;
 }
 
+span {
+    color: rgb(10, 69, 188);
+    font-weight: bold;
+}
+
+.fa-instagram {
+    color: rgb(224, 36, 94);
+}
+
+.fa-linkedin {
+    color: rgb(0, 119, 181);
+}
+
+li {
+    margin: 10px;
+    list-style: none;
+}
+
 main {
     padding: 20px;
     margin: auto;
