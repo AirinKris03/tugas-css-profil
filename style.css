@@ -11,9 +11,10 @@ img {
     display: block;
     margin: auto;
     border-radius: 20px;
-    border-color: lightblue;
+    border-color: rgb(199, 229, 239);
     border-width: 1px;
     border-style: solid;
+    padding: 4px;
 }
 
 .highlight {
@@ -40,27 +41,40 @@ span {
 
 .fa-instagram {
     color: rgb(224, 36, 94);
+    font-size: 24px;
+    margin-right: 8px;
 }
 
 .fa-linkedin {
     color: rgb(0, 119, 181);
+    font-size: 24px;
+    margin-right: 8px;
 }
 
 .fa-pencil-alt {
     color: rgb(6, 31, 81);
     margin-right: 8px;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .fa-contact-book {
     color: rgb(6, 31, 81);
     margin-right: 8px;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 li {
     margin: 10px;
     list-style: none;
+}
+
+a {
+    color: rgb(10, 69, 188);
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgb(6, 31, 81);
 }
 
 main {
