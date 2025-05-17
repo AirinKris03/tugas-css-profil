@@ -27,6 +27,12 @@ body {
     margin: auto;
 }
 
+p {
+    text-align: justify;
+    font-size: 20px;
+    line-height: 24px;
+}
+
 span {
     color: rgb(10, 69, 188);
     font-weight: bold;
@@ -38,6 +44,18 @@ span {
 
 .fa-linkedin {
     color: rgb(0, 119, 181);
+}
+
+.fa-pencil-alt {
+    color: rgb(6, 31, 81);
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.fa-contact-book {
+    color: rgb(6, 31, 81);
+    margin-right: 8px;
+    font-size: 20px;
 }
 
 li {
